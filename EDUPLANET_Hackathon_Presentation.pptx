@@ -1,0 +1,74 @@
+[SLIDE 1]
+Title: EDUPLANET: Platform for Sustainable Education
+Subtitle: Empowering Sustainable Education for All
+Footer: [Team Name] | [Hackathon Name] | [Date]
+
+[SLIDE 2]
+Title: The Problem
+- Education for sustainable development is fragmented and inaccessible.
+- Students and educators lack a unified, interactive platform for:
+  - Quality courses & certifications
+  - International mobility opportunities
+  - Community engagement (forums, news)
+  - AI-powered support
+
+[SLIDE 3]
+Title: Our Solution
+- EDUPLANET: A multilingual, all-in-one platform for sustainable education.
+- Key Features:
+  - Courses & certifications (role-based access)
+  - International mobility programs
+  - News & forum for community
+  - AI chatbot for guidance
+  - Modern, responsive UI (French/English)
+
+[SLIDE 4]
+Title: Live Demo / Screenshots
+- [Insert screenshots of Home, Courses, Mobility, Forum, Quiz, Chatbot]
+- [Placeholder for demo link or QR code]
+
+[SLIDE 5]
+Title: User Experience
+- Students:
+  - Discover and enroll in courses
+  - Apply for mobility programs
+  - Take quizzes, earn certifications
+  - Get instant help from the chatbot
+- Professors:
+  - Add/manage courses and quizzes
+  - Post new mobility programs
+  - Moderate and engage in forums
+
+[SLIDE 6]
+Title: AI Chatbot
+- DeepSeek-powered assistant
+- Answers only on sustainable development or platform usage
+- Multilingual, robust filtering (no off-topic replies)
+- Enhances onboarding and support
+
+[SLIDE 7]
+Title: Technical Architecture
+- Frontend: Next.js, Tailwind CSS, i18n, modern UI/UX
+- Backend: Express.js, MongoDB, REST API
+- AI: DeepSeek via Ollama, strict topic filtering
+- Authentication: Role-based (student/professor)
+- File Uploads: Courses (PDF), Mobility (images), Quizzes
+
+[SLIDE 8]
+Title: Security & Robustness
+- Role-based access control
+- File upload validation
+- Error handling & logging
+- Censorship for chatbot (no off-topic answers)
+
+[SLIDE 9]
+Title: Impact & Vision
+- Empowering the next generation for a sustainable future
+- Scalable to more languages, more features (badges, gamification, analytics)
+- Open to partnerships with schools, NGOs, and governments
+
+[SLIDE 10]
+Title: Call to Action
+- Join us in transforming education for sustainability!
+- [Demo link or QR code]
+- [Contact info / GitHub] 

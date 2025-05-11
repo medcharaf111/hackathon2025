@@ -1,0 +1,74 @@
+[SLIDE 1]
+Titre : EDUPLANET : Plateforme pour l'Éducation au Développement Durable
+Sous-titre : Favoriser l'éducation durable pour tous
+Pied de page : [Nom de l'équipe] | [Nom du hackathon] | [Date]
+
+[SLIDE 2]
+Titre : Le Problème
+- L'éducation au développement durable est fragmentée et peu accessible.
+- Les étudiants et enseignants manquent d'une plateforme interactive et unifiée pour :
+  - Cours & certifications de qualité
+  - Opportunités de mobilité internationale
+  - Communauté (forum, actualités)
+  - Support IA intelligent
+
+[SLIDE 3]
+Titre : Notre Solution
+- EDUPLANET : une plateforme multilingue, tout-en-un pour l'éducation durable.
+- Fonctionnalités clés :
+  - Cours & certifications (accès selon le rôle)
+  - Programmes de mobilité internationale
+  - Forum & actualités
+  - Chatbot IA pour l'accompagnement
+  - Interface moderne, responsive (français/anglais)
+
+[SLIDE 4]
+Titre : Démo / Captures d'écran
+- [Insérer des captures d'écran : Accueil, Cours, Mobilité, Forum, Quiz, Chatbot]
+- [Lien de démo ou QR code]
+
+[SLIDE 5]
+Titre : Expérience Utilisateur
+- Étudiants :
+  - Découvrir et s'inscrire à des cours
+  - Postuler à des programmes de mobilité
+  - Passer des quiz, obtenir des certifications
+  - Aide instantanée via le chatbot
+- Enseignants :
+  - Ajouter/gérer des cours et quiz
+  - Publier de nouveaux programmes de mobilité
+  - Animer et modérer le forum
+
+[SLIDE 6]
+Titre : Chatbot IA
+- Assistant propulsé par DeepSeek
+- Répond uniquement sur le développement durable ou l'utilisation du site
+- Multilingue, filtrage strict (pas de hors-sujet)
+- Facilite l'accueil et le support
+
+[SLIDE 7]
+Titre : Architecture Technique
+- Frontend : Next.js, Tailwind CSS, i18n, UI moderne
+- Backend : Express.js, MongoDB, API REST
+- IA : DeepSeek via Ollama, filtrage thématique strict
+- Authentification : Accès par rôle (étudiant/enseignant)
+- Téléversement : Cours (PDF), Mobilité (images), Quiz
+
+[SLIDE 8]
+Titre : Sécurité & Robustesse
+- Contrôle d'accès par rôle
+- Validation des fichiers téléversés
+- Gestion des erreurs & logs
+- Censure du chatbot (pas de réponses hors-sujet)
+
+[SLIDE 9]
+Titre : Impact & Vision
+- Former la prochaine génération pour un avenir durable
+- Évolutif : plus de langues, badges, gamification, analytics
+- Ouvert aux partenariats (écoles, ONG, institutions)
+
+[SLIDE 10]
+Titre : Appel à l'Action
+- Rejoignez-nous pour transformer l'éducation au service du développement durable !
+- [Lien de démo ou QR code]
+- [Contact / GitHub] 
